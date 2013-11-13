@@ -1,0 +1,21 @@
+{
+  "name": "guess-who",
+  "title": "Guess Who",
+  "description": "Guessing game",
+  "version": "0.0.1",
+  "homepage": "https://www.github.com/dodekahydra/guess-who",
+  "author": {
+    "name": "Andrew Spade",
+    "email": "andrew@hackreactor.com",
+    "url": "https://www.hackreactor.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/dodekahydra/guess-who"
+  },
+  "bugs": "",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
