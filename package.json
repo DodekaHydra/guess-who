@@ -15,6 +15,6 @@
     "grunt": "~0.4.1",
     "grunt-contrib-jade": "~0.8.0",
     "grunt-contrib-handlebars": "~0.5.10",
-    "grunt-play": "~0.1.0",
+    "grunt-play": "~0.1.0"
   }
 }

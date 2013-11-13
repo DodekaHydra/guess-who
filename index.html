@@ -8,15 +8,23 @@
     <author>Andrew Spade</author>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link type="text/css" rel="stylesheet" href="css/style.css">
-    <link type="text/css" rel="stylesheet" href="https://d18embnwuxbhpk.cloudfront.net/css/smoothness/jquery-ui-1.8.17.custom.css">
+    <link type="text/css" rel="stylesheet" href="src/css/guess.css">
 </head>
 
 <body>
-    <script src="libs/backbone.js"></script>
-    <script src="libs/underscore-min.js"></script>
-    <script type="text/javascript">
 
+    <script src="libs/jquery.min.js"></script>
+    <script src="libs/underscore-min.js"></script>
+    <script src="libs/backbone.js"></script> 
+    <script type="text/javascript" src="dist/guess-who.js"></script>
+    <script type="text/javascript">
+    
+    $(function(){
+
+        new Guess({
+        });
+
+    });
 
     </script>
 </body>
